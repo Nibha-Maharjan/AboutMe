@@ -6,10 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>About me</Text>
       <Text>Hello, My name is Nibha Maharjan</Text>
-      <Text>I come from Kathmandu, Nepal</Text>
-      <Text>Hello, My name is Nibha Maharjan</Text>
-      <Text>I completed my Bsc(Hons)IT from London Metropolitan</Text>
-      <Text>University</Text>
+      <Text>My Centennial Student ID is 301282952</Text>
       <StatusBar style="auto" />
     </View> 
   );
